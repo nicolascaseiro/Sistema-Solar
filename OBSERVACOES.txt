@@ -1,0 +1,13 @@
+OBSERVAÇÕES PARA O PROFESSOR:
+
+Passo a passo para execução:
+
+1. Cria Solução nova e insere trabalho.cpp em arquivos de origem da solução aberta.
+2. Insere stb_image.h em Arquivos de cabeçalho
+3. Insere as imagens tanto na pasta que contém o trabalho.cpp quanto na de debug que contém o .exe (caso vá abrir o .exe diretamente dos arquivos). Cria filtro dentro da solução com as imagens que serão usadas.
+
+Não foi possível aplicar a textura nos anéis de saturno (é possível, mas não tivemos tempo para terminar por causa de outras provas e trabalhos, se não for problema).
+
+Abs
+
+Luca(Lara) Zoio e Nicolas Caseiro.

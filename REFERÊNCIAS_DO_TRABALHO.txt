@@ -1,0 +1,12 @@
+REFERÊNCIAS DO TRABALHO
+
+https://learn.microsoft.com/en-us/windows/win32/opengl/opengl-reference
+
+https://www.guj.com.br/t/opengl-aplicar-textura-a-sphere/233812
+
+https://www.inf.pucrs.br/~manssour/CG/p-Textura/index.html
+
+https://www.inf.pucrs.br/pinho/CG-PPGCC/PraticaOpenGLImagens/ImageClass.html
+
+https://www.solarsystemscope.com/textures/
+
